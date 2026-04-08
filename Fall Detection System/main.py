@@ -53,4 +53,4 @@ for chute in train_chutes + val_chutes:
 
         cap.release()
 
-print("✅ Dataset Ready (Improved)")
+print("✅ Dataset Ready")
